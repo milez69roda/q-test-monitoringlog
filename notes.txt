@@ -1,0 +1,39 @@
+Departments:
+-Operations: Randall
+Randall Richards
+Joy Belstock
+Luis Reyes
+Gerald Gutierrez
+-Operations: Yaidy
+Yaidy Gomez
+Elias Nortelus
+Nicole Hall
+Sandy Ellis
+-CCCM/WF: Angel
+Angel Aleman
+Maria Romero
+Richert Manjarres
+Hernan Cespedes
+Max Munoz
+-Training: Ron Garon
+Ron Garon
+Laura Montecki
+Michelle Bassett
+Natalie LaChance
+
+
+
+
+
+
+
+Create a New Tab called: Overview
+-this tab will be the first tab in the tool on the far left
+-NOTE:the second tab should be Call Log Tab, then Meeting Log Tab, the Recommendations Log Tab, then Reports Tab
+-the Overview Tab should be a tab that tracks how far away from the goal each week each person is from their entries.
+-the metrics to load in are as follows:
+•	30 + weeks completed all three entries into the log (25 calls logged per person by end of week Sunday 9pm/1 meeting logged by end of week Sunday 9pm/1 recommendation logged by end of week Sunday 9pm)= score of a 5
+•	25-29 weeks completed all three entries into the log (25 calls logged per person by end of week Sunday 9pm/1 meeting logged by end of week Sunday 9pm/1 recommendation logged by end of week Sunday 9pm)= score of a 4
+•	20-24 weeks completed all three entries into the log (25 calls logged per person by end of week Sunday 9pm/1 meeting logged by end of week Sunday 9pm/1 recommendation logged by end of week Sunday 9pm)= score of a 3
+•	So this tab is a scoring tab and will track the individual score achieved daily toward that week’s goal and the year to date results as well.
+•	This tab will also track the department score the same way and also the enterprise score the same way.
